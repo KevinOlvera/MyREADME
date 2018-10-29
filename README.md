@@ -75,7 +75,7 @@ Por favor lee el [CONTRIBUTING.md](https://www.github.com/KevinOlvera/xxxxxx) pa
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Kevin Olvera** - *Trabajo Inicial* - [Kevin Olvera](https://github.com/KevinOlvera)
+* **Kevin Olvera** - *Trabajo Inicial* - [kevinolvera](https://github.com/KevinOlvera)
 * **Xxxxx Yyyyyy** - *Documentación* - [XxxxYyyy](https://github.com/XxxxYyyy)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
