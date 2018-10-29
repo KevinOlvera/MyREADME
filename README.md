@@ -85,4 +85,4 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ---
-⌨️ con ❤️ por [kevinolvera](https://github.com/KevinOlvera) 😊
+⌨️ con ❤️ por [Kevin Olvera](https://github.com/KevinOlvera) 😊
